@@ -4,7 +4,7 @@
 Independent Researcher | rwesterneng@gmail.com  
 *October 23, 2025*
 
-**Paper**: [Vortex-2.pdf](docs/paper.pdf) | **arXiv**: *pending*  
+**Paper**: [Rwesterneng_VORTEX.pdf](docs/RWesterneng_VORTEX.pdf) | **arXiv**: *pending*  
 **Data**: DESI DR1 (18.7M redshifts) | **Filaments**: 8,472  
 **Result**: 6.2% helical skewness → **2.5σ** evidence for spacetime torsion (ω = 1.2×10⁻¹⁸ s⁻¹)
 
